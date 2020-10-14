@@ -1,0 +1,15 @@
+{
+  "name": "hunger_p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "Alex Osadchyi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
